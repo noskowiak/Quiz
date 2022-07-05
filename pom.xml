@@ -12,9 +12,9 @@
     <artifactId>Quiz</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Quiz</name>
-    <description>Quiz</description>
+    <description>Quiz project with web interface</description>
     <properties>
-        <java.version>18</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
         <dependency>
